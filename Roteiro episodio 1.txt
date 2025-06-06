@@ -1,0 +1,17 @@
+🎙️ EPISÓDIO 1: "Por que seu botão não obedece?!"
+
+[INTRODUÇÃO]
+Fala aí, dev curioso! Imagina só: você passa horas montando seu site, coloca aquele botão bonitão no lugar... mas quando clica, ele te ignora completamente! 😤 Parece até feitiçaria, né? Mas não, jovem padawan do CSS, hoje a gente vai desvendar os mistérios por trás de um layout rebelde! Eu sou a Sica, e tá começando mais um “Elementar, minha Div!”, o podcast que junta estilo, lógica e umas boas doses de café!
+
+[CURIOSIDADE 1 – CSS: pointer-events]
+Sabia que existe uma propriedade no CSS chamada pointer-events que pode desativar completamente os cliques em um elemento? Pois é! Se você usar pointer-events: none; num botão, por exemplo, ele vai fingir que nem existe. Simplesmente ignora qualquer clique!
+Muitas vezes a gente copia um código da internet, ou aplica um estilo por cima sem perceber, e pronto: o botão trava. Então, antes de surtar, dá uma olhadinha nessa propriedade, porque pode ser só isso bagunçando tudo.
+
+[CURIOSIDADE 2 – Ferramenta para Frontends: Figma]
+Agora, se você curte praticidade (e quem não curte, né?), presta atenção nessa dica: Figma.
+O Figma é tipo um caderno mágico pra quem desenha telas e interfaces. Ele é online, gratuito pra começar, e perfeito pra organizar suas ideias de layout, testar cores e deixar tudo com aquele visual que até parece que você é um designer experiente!
+E o melhor: dá pra trabalhar com outras pessoas ao mesmo tempo, tipo Google Docs, só que com botãozinhos e caixas coloridas.
+
+[FINALIZAÇÃO]
+E aí, curtiu as dicas de hoje? Então não esquece de deixar o café do lado, o navegador aberto e o dedo no teclado, porque frontend é isso: estilo e lógica com uma pitada de paciência.
+Aqui é a Sica, e esse foi o “Elementar, minha Div!” dessa semana!
